@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TemplateApplication</string>
+    <string name="stringZZZ">ZZZ</string>
+    <string name="stringXXX">XXX</string>
 </resources>
